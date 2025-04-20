@@ -1,4 +1,4 @@
-## CodeAlpha_Project_DataScience
+## Project_DataScience
 # TASK 1:
 🎯 Project Summary: Iris Flower Classification with Machine Learning<br>
 ✅ Steps Completed:<br>
